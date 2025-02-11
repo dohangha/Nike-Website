@@ -1,5 +1,5 @@
 import { star } from "../assets/icons";
-import './PopularProductCard.css'
+
 
 
 interface PopularProductCardProps {
